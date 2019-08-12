@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ThrustLow.wav-19245b38c5bd5bf72c61006a1e634719.sample"
+
+[deps]
+
+source_file="res://sounds/ThrustLow.wav"
+dest_files=[ "res://.import/ThrustLow.wav-19245b38c5bd5bf72c61006a1e634719.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

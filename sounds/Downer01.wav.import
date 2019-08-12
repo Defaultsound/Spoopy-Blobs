@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Downer01.wav-42e6b4a5ca3bb9a8aed4bfd898747599.sample"
+
+[deps]
+
+source_file="res://sounds/Downer01.wav"
+dest_files=[ "res://.import/Downer01.wav-42e6b4a5ca3bb9a8aed4bfd898747599.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

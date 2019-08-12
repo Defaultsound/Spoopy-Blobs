@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Parachutes.wav-af8d51ecadb0c90451803cc9ca0d27e4.sample"
+
+[deps]
+
+source_file="res://sounds/Parachutes.wav"
+dest_files=[ "res://.import/Parachutes.wav-af8d51ecadb0c90451803cc9ca0d27e4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

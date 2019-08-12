@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Decompression.wav-f2fa9ad0cd29598f1ec1c08d98a4f24b.sample"
+
+[deps]
+
+source_file="res://sounds/Decompression.wav"
+dest_files=[ "res://.import/Decompression.wav-f2fa9ad0cd29598f1ec1c08d98a4f24b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

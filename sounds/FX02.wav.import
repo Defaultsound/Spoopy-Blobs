@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/FX02.wav-0e8aab9bc22fe9ab2c699558f6f4e161.sample"
+
+[deps]
+
+source_file="res://sounds/FX02.wav"
+dest_files=[ "res://.import/FX02.wav-0e8aab9bc22fe9ab2c699558f6f4e161.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
