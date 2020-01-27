@@ -43,12 +43,11 @@ shape = SubResource( 1 )
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="Area2D"]
 stream = ExtResource( 3 )
-volume_db = -2.0
+volume_db = -15.0
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="Area2D"]
 playback_speed = 2.0
 anims/Collect = SubResource( 2 )
-
 [connection signal="area_entered" from="Area2D" to="Area2D" method="_on_Area2D_area_entered"]
 [connection signal="body_entered" from="Area2D" to="Area2D" method="_on_Area2D_body_entered"]
 [connection signal="finished" from="Area2D/AudioStreamPlayer" to="Area2D" method="remove"]

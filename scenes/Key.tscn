@@ -4,7 +4,6 @@
 [ext_resource path="res://sprites/Full Sprite Sheet.png" type="Texture" id=2]
 [ext_resource path="res://sounds/coin3.wav" type="AudioStream" id=3]
 
-
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 40, 20 )
 
@@ -41,7 +40,6 @@ anims/KeyGet = SubResource( 2 )
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
 stream = ExtResource( 3 )
-volume_db = -5.0
-
+volume_db = -10.0
 [connection signal="body_entered" from="." to="." method="_on_Key_body_entered"]
 [connection signal="finished" from="AudioStreamPlayer" to="." method="remove"]
